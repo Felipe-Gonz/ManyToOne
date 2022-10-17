@@ -1,2 +1,9 @@
-C:\Users\fg180\Documents\NetBeansProjects\Base Hibernate\src\main\java\com\springsimplespasos\hibernate\pruebas\HibernateMain.java
-C:\Users\fg180\Documents\NetBeansProjects\Base Hibernate\src\main\java\com\springsimplespasos\hibernate\util\HibernateUtil.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\pruebas\MainOneToOne.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\entidades\manytoone\Telefono.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\entidades\SimpleEntity.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\pruebas\HibernateMain.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\pruebas\MainManyToOne.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\util\HibernateUtil.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\entidades\onetoone\Socio.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\entidades\onetoone\Carnet.java
+D:\sam\Projects\entrenamiento-luis\ManyToOne\src\main\java\com\springsimplespasos\hibernate\entidades\manytoone\Persona.java
