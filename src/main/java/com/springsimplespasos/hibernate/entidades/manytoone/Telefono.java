@@ -33,6 +33,15 @@ public class Telefono implements Serializable   {
         this.codigo = codigo;
         this.numero = numero;
     }
+
+    public Telefono(String numero, Persona persona) {
+        this.numero = numero;
+        this.persona = persona;
+    }
+
+    public Telefono(String numero) {
+        this.numero = numero;
+    }
     
     public int getCodigo() {
         return codigo;

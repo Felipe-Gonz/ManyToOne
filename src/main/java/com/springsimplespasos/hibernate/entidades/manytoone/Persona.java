@@ -33,6 +33,10 @@ public class Persona implements Serializable{
         this.nombre = nombre;
     }
 
+    public Persona(String nombre) {
+        this.nombre = nombre;
+    }
+    
     public int getCodigo() {
         return codigo;
     }
